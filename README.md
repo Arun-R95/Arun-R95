@@ -22,8 +22,8 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-Lenovo_LOQ-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun-R95&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Arun-R95?theme=dark&font=Metal&ext=activity)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun-R95&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Arun-R95/github-readme-activity-graph)
